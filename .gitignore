@@ -1,0 +1,18 @@
+# Ansible
+*.retry
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode
+.vscode/
+
+# Temporary files
+tmp/
